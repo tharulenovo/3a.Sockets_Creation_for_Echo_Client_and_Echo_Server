@@ -51,6 +51,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 ## OUPUT
 ## Server:
 <img width="1513" height="821" alt="Screenshot 2026-02-14 111142" src="https://github.com/user-attachments/assets/242e41b8-645a-4bb6-a539-2694e71aa743" />
+
 ## Client:
 <img width="1489" height="895" alt="Screenshot 2026-02-14 111154" src="https://github.com/user-attachments/assets/3a4d7769-7486-43b2-8bda-1fbd0c0930c9" />
 
